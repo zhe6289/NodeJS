@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(84, 92, 100);
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 650px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* h1,h2,h3,h4 {
+    color: yellow;
+} */
+
+/* p {
+    color: #fff;
+} */
+
+a {
+    color: orange;
+    text-decoration: none;
+}
+
+.footer {
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%, -50%);
+    font-size: .9em;
+    color: #d3d3d3b9;
+}
