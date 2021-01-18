@@ -40,7 +40,7 @@ $ git push heroku master
 <!-- mongodb -->
 cd ~ 
 pwd
-/Users/eugenechua/mongodb/bin/mongod --dbpath=/Users/eugenechua/mongodb-data
+/Users/eugenechua/mongodb/bin/mongod --dbpath=/Users/eugenechua/mongodb/data
 
 <!-- create a empty package.json -->
 npm init -y
